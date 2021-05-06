@@ -1,0 +1,16 @@
+[package]
+name = "cartesian_trajectories"
+version = "0.1.0"
+authors = ["Marco Boneberger <m.boneberger@tu-bs.de>"]
+edition = "2018"
+license = "EUPL-1.2"
+description = "create cartesian motion profiles"
+categories = ["science::robotics", "mathematics"]
+keywords = ["motion", "trajectory", "trajectories"]
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nalgebra = "0.23"
+s_curve = "0.1"
