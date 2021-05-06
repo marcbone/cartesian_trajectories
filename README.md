@@ -1,3 +1,8 @@
+[![crates.io](https://img.shields.io/crates/v/cartesian_trajectories.svg)](https://crates.io/crates/cartesian_trajectories)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/marcbone/cartesian_trajectories/Rust)
+[![crates.io](https://img.shields.io/crates/l/cartesian_trajectories.svg)](https://crates.io/crates/cartesian_trajectories)
+[![crates.io](https://img.shields.io/crates/d/cartesian_trajectories.svg)](https://crates.io/crates/cartesian_trajectories)
+[![docs.rs](https://docs.rs/cartesian_trajectories/badge.svg)](https://docs.rs/cartesian_trajectories)
 # cartesian_trajectories
 
 cartesian_trajectories allows creating arbitrary cartesian trajectories and adding a velocity profile on top of it.
